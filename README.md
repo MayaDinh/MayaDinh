@@ -1,4 +1,4 @@
-## Hi there 👋
+![cartoon drawing of profile owner](banner.png)
 
 <!--
 **MayaDinh/MayaDinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
