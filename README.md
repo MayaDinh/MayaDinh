@@ -3,4 +3,4 @@
 ## Hello World, I'm Maya! (ദ്ദി˙ᗜ˙)
 _Developer/Programmer_
 
-Currently a 2nd year CS student at the University of Guelph. 
+2nd year CS student at the University of Guelph who is seeking a Winter 2027 Co-op. 
